@@ -1,0 +1,5 @@
+ in this problem statement, we are going to solve whther person stays or exits from the bank based on given features
+ we use ANN with tensor flow
+ conda create -p venv python==3.11 -y
+ conda activate venv/             
+ using tensorflow 2.15.0 because it has integrated with keras
